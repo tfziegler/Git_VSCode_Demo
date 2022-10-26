@@ -1,1 +1,1 @@
-Get-Alias -Name 'Tom'
+Get-Alias -Name 'Tom' \ Get-Member
